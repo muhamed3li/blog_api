@@ -1,0 +1,15 @@
+{
+  "name": "muhamed3li/blog_api",
+  "authors": [
+    {
+      "name": "Mohamed Ali",
+      "email": "muhamedali.dev@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Core\\": "Core/",
+      "Http\\": "Http/"
+    }
+  }
+}
